@@ -1,0 +1,29 @@
+c:\users\linh\documents\visual studio 2012\Projects\Assignment\Assignment\bin\Debug\Assignment.exe.config
+c:\users\linh\documents\visual studio 2012\Projects\Assignment\Assignment\bin\Debug\Assignment.exe
+c:\users\linh\documents\visual studio 2012\Projects\Assignment\Assignment\bin\Debug\Assignment.pdb
+c:\users\linh\documents\visual studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+c:\users\linh\documents\visual studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.Algorithms.resources
+c:\users\linh\documents\visual studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+c:\users\linh\documents\visual studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+c:\users\linh\documents\visual studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.exe
+c:\users\linh\documents\visual studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\LINH\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\LINH\Desktop\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\LINH\Desktop\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\LINH\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\LINH\Desktop\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\LINH\Desktop\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\LINH\Desktop\Assignment\Assignment\obj\Debug\Assignment.Algorithms.resources
+C:\Users\LINH\Desktop\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\LINH\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\LINH\Desktop\Assignment ver 1.1\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\LINH\Desktop\Assignment ver 1.1\Assignment\obj\Debug\Assignment.exe
+C:\Users\LINH\Desktop\Assignment ver 1.1\Assignment\obj\Debug\Assignment.pdb
+C:\Users\LINH\Desktop\Assignment ver 1.1\Assignment\bin\Debug\Assignment.exe
+C:\Users\LINH\Desktop\Assignment ver 1.1\Assignment\bin\Debug\Assignment.pdb
+C:\Users\LINH\Desktop\Assignment ver 1.1\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\LINH\Desktop\Assignment ver 1.1\Assignment\obj\Debug\Assignment.Algorithms.resources
+C:\Users\LINH\Desktop\Assignment ver 1.1\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\LINH\Desktop\Assignment ver 1.1\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\LINH\Desktop\Assignment ver 1.1\Assignment\obj\Debug\Assignment.FileNew.resources
+C:\Users\LINH\Desktop\Assignment ver 1.1\Assignment\obj\Debug\Assignment.SearchData.resources
